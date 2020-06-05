@@ -1,6 +1,8 @@
 # Ecoleta
 Cadastre e liste para usuários os pontos de coletas perto de você - Next Level Week - Trilha Booster
 
+![Print](https://github.com/LeonardoPizzoquero/ecoleta/blob/master/frontend/public/layout.png)
+
 ## Tecnologias:
 
 Backend:
@@ -50,7 +52,3 @@ Mobile:
   - Rode o comando em seu terminal: `yarn start` ou `npm start` para iniciar o projeto expo.
   - Você poderá acessar o aplicativo em seu dispositivo físico, baixando o app Expo nas lojas de aplicativos e fazendo o scan
   do QR Code gerado no comando anterior.
-  
-
-![Print](https://github.com/LeonardoPizzoquero/ecoleta/blob/master/frontend/public/layout.png)
-
